@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM python:3.6.14-alpine
 MAINTAINER RE-A
 
 ENV PYTHONUNBUFFERED 1
