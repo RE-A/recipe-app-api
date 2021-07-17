@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+compose-run.bat
+compose-runwith_flake.bat
